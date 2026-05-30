@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="sdlRasingFishGame/sdlRasingFishGame.vcxproj" Id="beff3570-3e70-4204-9a97-55e786c13d17" />
+</Solution>
